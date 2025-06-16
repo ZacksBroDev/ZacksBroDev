@@ -1,4 +1,5 @@
 About Me: 
+<br>
 Hi, I'm Zackary Brown — Full Stack Developer<br><br>I'm a full-stack developer with a drive for building scalable, efficient, and user-friendly web applications. I enjoy working across the entire stack — from crafting responsive front-end interfaces to architecting robust back-end systems.<br><br>💻 Tech Stack<br>- Languages: JavaScript / Python, HTML/CSS, SQL<br>- Front-End: React, Next.js <br>- Back-End: Node.js <br>- Databases: MySQL<br>- Tools & DevOps: Git, GitHub Actions<br><br> 📫 Get in Touch<br>I'm always open to collaboration or freelance opportunities.  <br>Feel free to connect with me:<br><br>- [LinkedIn] (https://www.linkedin.com/in/zackary-brown-a2b60b20a/)<br>- [Portfolio] (https://zackarybrown.net)<br>- [Email] (mailto:zackaryzbrown@gmail.com)<br><br>Thanks for stopping by!
 
 

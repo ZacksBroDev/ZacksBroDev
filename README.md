@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="[htts](https://www.zackarybrown.net/)" alt="Portfolio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacksbrodev" alt="zacksbrodev" /></a> </p>
-
 - 🔭 I’m currently working on [RemoraNotes](https://github.com/ZacksBroDev/RemoraNotes)
 
 - 🌱 I’m currently learning **100Devs**

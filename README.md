@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zackary Brown</h1>
 <h3 align="center">I'm a full-stack developer with a drive for building scalable, efficient, and user-friendly web applications. I enjoy working across the entire stack — from crafting responsive front-end interfaces to architecting robust back-end systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zacksbrodev&label=Profile%20views&color=0e75b6&style=flat" alt="zacksbrodev" /> </p>
+<p align="left"> <img src="[htts](https://www.zackarybrown.net/)" alt="Portfolio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacksbrodev" alt="zacksbrodev" /></a> </p>
 

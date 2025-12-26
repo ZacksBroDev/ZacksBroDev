@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.zackarybrown.net/](https://www.zackarybrown.net/)
 
-- 💬 Ask me about **Dirtbikes, React, and BMX**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **zackaryzbrown@gmail.com**
 

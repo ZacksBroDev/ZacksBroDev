@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zackary Brown</h1>
-<h3 align="center">I'm a full-stack developer with a drive for building scalable, efficient, and user-friendly web applications. I enjoy working across the entire stack — from crafting responsive front-end interfaces to architecting robust back-end systems.</h3>
+<h3 align="center">I'm a Frontend engineer with a drive for building scalable, efficient, and user-friendly web applications.</h3>
 
 <p align="left"> <img src="[Portfolio](https://www.zackarybrown.net/)" alt="Portfolio" /> </p>
-
-- 🔭 I’m currently working on [RemoraNotes](https://github.com/ZacksBroDev/RemoraNotes)
-
-- 🌱 I’m currently learning **100Devs**
-
-- 🤝 I’m looking for help with [RemoraNotes](https://github.com/ZacksBroDev/RemoraNotes)
 
 - 👨‍💻 All of my projects are available at [https://www.zackarybrown.net/](https://www.zackarybrown.net/)
 

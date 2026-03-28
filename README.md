@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zackary Brown</h1>
 <h3 align="center">I'm a Frontend engineer with a drive for building scalable, efficient, and user-friendly web applications.</h3>
 
-<p align="left"> <img src="[Portfolio](https://www.zackarybrown.net/)" alt="Portfolio" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.zackarybrown.net/](https://www.zackarybrown.net/)
 

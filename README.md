@@ -9,7 +9,7 @@
   ·
   <a href="https://www.linkedin.com/in/zackaryzbrown/">LinkedIn</a>
   ·
-  <a href="https://github.com/ZacksBroDev">GitHub</a>
+  <a href="https://github.com/zackaryzbrown">GitHub</a>
 </p>
 
 ---

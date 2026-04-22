@@ -52,12 +52,6 @@ Website built to improve online presence, present content clearly, and deliver a
 **Highlights:** layout design, responsive implementation, content structure, launch-ready delivery  
 **Link:** [thefutons.band](https://thefutons.band)
 
-### Portfolio Website
-My portfolio site, where I showcase selected work, technical strengths, and the kind of frontend experiences I like building.
-
-**Stack:** Next.js, TypeScript, Tailwind CSS  
-**Link:** [zackarybrown.net](https://zackarybrown.net)
-
 ## Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
